@@ -31,7 +31,7 @@ body::before {
 
 /* Container for main content */
 .container {
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 0 auto;
   padding: 20px 15px;
   position: relative;
@@ -105,7 +105,6 @@ h1 {
 
 /* Subtitle */
 .song-subtitle {
-  padding: 0 10px 10px;
   font-size: 1rem;
   font-weight: 400;
   color: #ddd;
